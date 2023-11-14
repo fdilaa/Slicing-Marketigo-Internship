@@ -1,2 +1,2 @@
-# https://slicing-marketigo-internship.vercel.app/
+# slicing-marketigo-internship.vercel.app
 Pre-Test Internship Elux Space
